@@ -6,7 +6,7 @@ also includes a command-line tool to do things like restart, update,
 and check your instance.
 
 This is an enhanced version of the provided
-[SSH add-on by Home Assistant][hass-ssh] and focusses on security,
+[SSH add-on by Home Assistant][hass-ssh] and focuses on security,
 usability, flexibility and also provides access using a web interface.
 
 ## WARNING
@@ -269,13 +269,13 @@ You could also [open an issue here][issue] GitHub.
 The original setup of this repository is by [Franck Nijhof][frenck].
 
 For a full list of all authors and contributors,
-check [the contributor's page][contributors].
+check [the contributors page][contributors].
 
 ## License
 
 MIT License
 
-Copyright (c) 2017-2022 Franck Nijhof
+Copyright (c) 2017-2023 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -311,5 +311,5 @@ SOFTWARE.
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-ssh/releases
 [semver]: http://semver.org/spec/v2.0.0.htm
-[ssh-audit]: https://github.com/arthepsy/ssh-audit
+[ssh-audit]: https://github.com/jtesta/ssh-audit
 [zsh]: https://en.wikipedia.org/wiki/Z_shell

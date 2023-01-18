@@ -117,7 +117,7 @@ Thank you for being involved! :heart_eyes:
 The original setup of this repository is by [Franck Nijhof][frenck].
 
 For a full list of all authors and contributors,
-check [the contributor's page][contributors].
+check [the contributors page][contributors].
 
 ## We have got some Home Assistant add-ons for you
 
@@ -130,7 +130,7 @@ our [GitHub Repository][repository].
 
 MIT License
 
-Copyright (c) 2017-2022 Franck Nijhof
+Copyright (c) 2017-2023 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -172,7 +172,7 @@ SOFTWARE.
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/hassio-addons/addon-ssh/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-ssh.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
@@ -183,5 +183,5 @@ SOFTWARE.
 [releases]: https://github.com/hassio-addons/addon-ssh/releases
 [repository]: https://github.com/hassio-addons/repository
 [semver]: http://semver.org/spec/v2.0.0.htm
-[ssh-audit]: https://github.com/arthepsy/ssh-audit
+[ssh-audit]: https://github.com/jtesta/ssh-audit
 [zsh]: https://en.wikipedia.org/wiki/Z_shell
